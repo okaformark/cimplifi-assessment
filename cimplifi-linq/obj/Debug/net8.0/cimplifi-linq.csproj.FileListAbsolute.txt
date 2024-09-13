@@ -1,0 +1,14 @@
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\bin\Debug\net8.0\cimplifi-linq.exe
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\bin\Debug\net8.0\cimplifi-linq.deps.json
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\bin\Debug\net8.0\cimplifi-linq.runtimeconfig.json
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\bin\Debug\net8.0\cimplifi-linq.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\bin\Debug\net8.0\cimplifi-linq.pdb
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.AssemblyInfoInputs.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.AssemblyInfo.cs
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.csproj.CoreCompileInputs.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\refint\cimplifi-linq.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.pdb
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\cimplifi-linq.genruntimeconfig.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-linq\obj\Debug\net8.0\ref\cimplifi-linq.dll

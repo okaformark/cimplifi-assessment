@@ -1,0 +1,14 @@
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\bin\Debug\net8.0\cimplifi-exception.exe
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\bin\Debug\net8.0\cimplifi-exception.deps.json
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\bin\Debug\net8.0\cimplifi-exception.runtimeconfig.json
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\bin\Debug\net8.0\cimplifi-exception.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\bin\Debug\net8.0\cimplifi-exception.pdb
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.AssemblyInfoInputs.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.AssemblyInfo.cs
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.csproj.CoreCompileInputs.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\refint\cimplifi-exception.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.pdb
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\cimplifi-exception.genruntimeconfig.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-exception\obj\Debug\net8.0\ref\cimplifi-exception.dll

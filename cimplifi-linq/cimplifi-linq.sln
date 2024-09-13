@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cimplifi-linq", "cimplifi-linq.csproj", "{F7D988F5-B9EA-40B1-B2F1-A2B8F3DFF6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D988F5-B9EA-40B1-B2F1-A2B8F3DFF6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D988F5-B9EA-40B1-B2F1-A2B8F3DFF6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D988F5-B9EA-40B1-B2F1-A2B8F3DFF6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D988F5-B9EA-40B1-B2F1-A2B8F3DFF6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0AA49C-0E25-4F51-AD49-C389A5AB327F}
+	EndGlobalSection
+EndGlobal

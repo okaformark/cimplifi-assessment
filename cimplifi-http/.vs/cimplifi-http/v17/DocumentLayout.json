@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|c:\\users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|c:\\users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\fetchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|solutionrelative:fetchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|c:\\users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\httpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|solutionrelative:httpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|c:\\users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\ihttpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0232744-9A62-4B91-AF81-55C744A0A87D}|cimplifi-http.csproj|solutionrelative:ihttpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:35:58.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FetchData.cs",
+              "DocumentMoniker": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\FetchData.cs",
+              "RelativeDocumentMoniker": "FetchData.cs",
+              "ToolTip": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\FetchData.cs",
+              "RelativeToolTip": "FetchData.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:38:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpProvider.cs",
+              "DocumentMoniker": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\HttpProvider.cs",
+              "RelativeDocumentMoniker": "HttpProvider.cs",
+              "ToolTip": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\HttpProvider.cs",
+              "RelativeToolTip": "HttpProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:31:06.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHttpProvider.cs",
+              "DocumentMoniker": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\IHttpProvider.cs",
+              "RelativeDocumentMoniker": "IHttpProvider.cs",
+              "ToolTip": "C:\\Users\\markokafor\\source\\repos\\cimplifi-assessment\\cimplifi-http\\IHttpProvider.cs",
+              "RelativeToolTip": "IHttpProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:29:47.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

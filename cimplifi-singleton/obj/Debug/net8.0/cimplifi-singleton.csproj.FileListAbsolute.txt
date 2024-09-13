@@ -1,0 +1,14 @@
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\bin\Debug\net8.0\cimplifi-singleton.exe
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\bin\Debug\net8.0\cimplifi-singleton.deps.json
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\bin\Debug\net8.0\cimplifi-singleton.runtimeconfig.json
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\bin\Debug\net8.0\cimplifi-singleton.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\bin\Debug\net8.0\cimplifi-singleton.pdb
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.AssemblyInfoInputs.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.AssemblyInfo.cs
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.csproj.CoreCompileInputs.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\refint\cimplifi-singleton.dll
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.pdb
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\cimplifi-singleton.genruntimeconfig.cache
+C:\Users\markokafor\source\repos\cimplifi-assessment\cimplifi-singleton\obj\Debug\net8.0\ref\cimplifi-singleton.dll
